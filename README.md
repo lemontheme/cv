@@ -17,5 +17,4 @@ Run through all compilation steps with `make all`.
 ## Credits
 
 Based on the
-[developer-cv](https://www.latextemplates.com/template/developer-cv) template.
-
+[developer-cv](https://www.latextemplates.com/template/developer-cv) template (by Jan Vorisek, Jan Küster, and Vel).
