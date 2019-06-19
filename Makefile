@@ -5,7 +5,7 @@ clean:
 	latexmk -c
 
 preview:
-	convert -density 288 cv.pdf -quality 99 -resize 70% cv.png
+	convert -thumbnail x700 -density 300 -background white -alpha remove -quality 99 cv.pdf cv.png
 
 all: build clean preview
 
