@@ -8,3 +8,5 @@ Hi, I'm Adriaan. This is my CV. (Full PDF [here](/cv.pdf).)
 
 ![page2](/cv-1.png)
 
+![page3](/cv-2.png)
+
